@@ -1,0 +1,44 @@
+#navbar {
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 0px 7px;
+    padding-bottom: 8px;
+}
+/* Home section */
+#home{
+    height: 370px; 
+    padding: 13px 25px;
+}
+
+#home::before{
+    height: 480px; 
+}
+
+#home p{
+    font-size: 13px;
+}
+
+/* Services section  */
+#services{
+    flex-direction: column;
+    margin: 15px;
+}
+
+#services .box { 
+    padding: 14px;
+    margin: 2px 0px; 
+    margin-bottom: 20px;
+}
+
+#contact-box form{
+    width: 85%;
+}
+
+#h-primary{
+    font-size: 2rem;
+    padding: 20px;
+    font-family: 'Baloo Bhai', cursive;
+}
