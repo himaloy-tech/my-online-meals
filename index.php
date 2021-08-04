@@ -19,8 +19,8 @@
         </ul>
     </nav>
     <section id="home">
-        <h1 class="h-primary">Welcome to MyOnlineMeal</h1>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis dolorum numquam minus. Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
+        <h1 class="h-primary center">Welcome to MyOnlineMeal</h1>
+        <p class="center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis dolorum numquam minus. Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
         <button class="btn">Order Now</button>
     </section>
     <section id="services-container">
