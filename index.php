@@ -27,7 +27,7 @@
         <h1 class="h-primary center">Our Services</h1>
         <div id="services">
             <div class="box">
-                <img src="1.jpg" alt="">
+                <img src="meat.png" alt="">
                 <h2 class="h-secondary center">Food Catering</h2>
                 <p class="center" id="service-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, culpa suscipit error
                     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et qui, repudiandae similique nam, recusandae quidem ab asperiores ex, aut fugit labore veritatis facere?
@@ -35,7 +35,7 @@
                     voluptas beatae facilis labore, omnis sint quae eum.</p>
             </div>
             <div class="box">
-                <img src="1.jpg" alt="">
+                <img src="meat.png" alt="">
                 <h2 class="h-secondary center">Bulk Ordering</h2>
                 <p class="center" id="service-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, culpa suscipit error
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde laudantium a incidunt animi ad, ab dignissimos vero? Unde numquam odit repudiandae perferendis nisi.
@@ -44,7 +44,7 @@
                     voluptas beatae facilis labore, omnis sint quae eum.</p>
             </div>
             <div class="box">
-                <img src="1.jpg" alt="">
+                <img src="meat.png" alt="">
                 <h2 class="h-secondary center">Food Ordering</h2>
                 <p class="center" id="service-desc">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, culpa suscipit error
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus provident fugiat aliquam minima at explicabo. Earum eveniet quaerat, sunt molestias nesciunt quas! Quis.
